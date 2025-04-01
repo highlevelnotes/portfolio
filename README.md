@@ -44,12 +44,12 @@
 
 ## 📊 프로젝트 (Project)
 ------
-<img src="assets/img/finance.jpg" width="200" height="400"/>
+<img src="assets/img/finance.jpg" width="400" height="200"/>
 
 [채권 리포트 기반 RAG 아키텍처 구축](https://github.com/DS3th-AIFFEELTHON/Bogosa)
 - 금융 리포트 기반 Advanced-RAG 아키텍처 구축 및 챗봇 구현 프로젝트입니다.
 - 
-<img src="assets/img/copyright.jpg" width="200" height="400"/>
+<img src="assets/img/copyright.jpg" width="400" height="200"/>
 
 [저작권법 기반 챗봇 시스템](https://github.com/highlevelnotes/Langchainthon_2)
 - 저작권법 및 판례 기반 챗봇 시스템으로, 사용자가 저작권법에 근거한 다양한 질문을 던지고 답변을 받을 수 있습니다.
