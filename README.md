@@ -1,46 +1,48 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
-
 ## 📊 자기 소개 (Introduction)
 ------
 
-### ~한 000입니다.
-
-- 한줄 자기소개 
-예시)"데이터 분석에 뛰어난 역량과 실무 경험을 갖춘 데이터 엔지니어로, 복잡한 문제에 효과적인 솔루션을 제시합니다."
-> 
->
-> 
-> 
+### 신입 LLM & RAG 개발자 이지우입니다.
+> LLM과 RAG를 이용해 문제를 해결하는 AI 솔루션을 제작한 경험이 있습니다.
+> 다양한 데이터, 특히 금융 도메인 특화 문제 해결 아키텍처를 구축하고, 이를 비즈니스에 활용하기 위한 다양한 방법을 시도하고 있습니다.
 
 
 ## 📊 직무 경험 (Experience)
 ------
 
-**직무 타이틀** @ 회사이름 (시작연도/월 - 졸업연도/월)
+**NW기준정보팀 팀원** @ LG유플러스 (2023/06 - 2024/05)
 
-- Achieve X with measurement of Y using Z
+- SQL, 엑셀을 이용한 사내 네트워크 DB 구축 및 관리 업무 수행
+
+
+**재무팀 팀원** @ 글뫼 (2020/11 - 2021/10)
+
+- 영화 제작사 예정산 업무 및 재무관리 수행
 
 
 ## 📊 교육 (Education)
 ------
-🏫 학교 이름 (시작연도 - 졸업연도)
+🏫 컴퓨터공학과 학사 취득 (2020.10 ~ 2024.04)
 
-- 전공 & 과 이름
+
+
 
 
 ## 📊 보유 스킬 (Skill)
 ------
-- 예시) Python - Pandas, Numpy, Matplotlib, Sklearn
+- Python - Pandas, Numpy, LangChain, LangGraph, Torch, Tensorflow
+- SQL
+- Tableau
+- Google Cloud Platform (Vertex AI)
+- 
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/trash.jpeg)
+![finance](assets/img/finance.jpg)
 
-[딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
-- CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
+[채권 리포트 기반 RAG 아키텍처 구축](https://github.com/DS3th-AIFFEELTHON/Bogosa)
+- 금융 리포트 기반 Advanced-RAG 아키텍처 구축 및 챗봇 구현 프로젝트입니다.
 
-![newyork](assets/img/newyork.jpeg)
+![copyright](assets/img/copyright.jpeg)
 
-[뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
-- 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
+[저작권법 기반 챗봇 시스템](https://github.com/highlevelnotes/Langchainthon_2)
+- 저작권법 및 판례 기반 챗봇 시스템으로, 사용자가 저작권법에 근거한 다양한 질문을 던지고 답변을 받을 수 있습니다.
