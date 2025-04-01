@@ -32,6 +32,10 @@
 
 ## 📊 보유 스킬 (Skill)
 ------
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 - Python - Pandas, Numpy, LangChain, LangGraph, Torch, Tensorflow
 - SQL
 - Tableau
@@ -42,10 +46,10 @@
 ------
 ![finance](assets/img/finance.jpg)
 
-[채권 리포트 기반 RAG 아키텍처 구축](https://github.com/DS3th-AIFFEELTHON/Bogosa)
+[채권 리포트 기반 RAG 아키텍처 구축](https://github.com/DS3th-AIFFEELTHON/Bogosa){: width="300px" height="300px"}
 - 금융 리포트 기반 Advanced-RAG 아키텍처 구축 및 챗봇 구현 프로젝트입니다.
 
 ![copyright](assets/img/copyright.jpg)
 
-[저작권법 기반 챗봇 시스템](https://github.com/highlevelnotes/Langchainthon_2)
+[저작권법 기반 챗봇 시스템](https://github.com/highlevelnotes/Langchainthon_2){: width="300px" height="300px"}
 - 저작권법 및 판례 기반 챗봇 시스템으로, 사용자가 저작권법에 근거한 다양한 질문을 던지고 답변을 받을 수 있습니다.
