@@ -37,6 +37,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 - Python - Pandas, Numpy, LangChain, LangGraph, LangSmith, PyTorch, Tensorflow, Streamlit
+- API - OpenAI, Claude, Upstage, HyperClova X
+- HuggingFace, Ollama
 - SQL
 - Tableau
 - Google Cloud Platform (Vertex AI)
