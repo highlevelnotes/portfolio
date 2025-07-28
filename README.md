@@ -53,3 +53,7 @@
 
 [저작권법 기반 챗봇 시스템](https://github.com/highlevelnotes/Langchainthon_2)
 - 저작권법 및 판례 기반 챗봇 시스템으로, 사용자가 저작권법에 근거한 다양한 질문을 던지고 답변을 받을 수 있습니다.
+
+[Modular RAG 시스템 구축](https://github.com/highlevelnotes/ModularRAG-with-HyperClovaX)
+- 금융 리포트 기반 Modular-RAG 아키텍처 구축 프로젝트입니다.
+- Advanced-RAG 기반 수정 프로젝트이며, 한국어 특화 LLM 기반으로 수행하였습니다.
