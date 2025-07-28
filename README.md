@@ -57,3 +57,7 @@
 [Modular RAG 시스템 구축](https://github.com/highlevelnotes/ModularRAG-with-HyperClovaX)
 - 금융 리포트 기반 Modular-RAG 아키텍처 구축 프로젝트입니다.
 - Advanced-RAG 기반 수정 프로젝트이며, 한국어 특화 LLM 기반으로 수행하였습니다.
+
+[AI Investment Advisor](https://github.com/highlevelnotes/ai_investment_advisor)
+- 다양한 알고리즘 기반 투자 자동화 알고리즘 개발
+- 현재 진행중인 프로젝트입니다.
